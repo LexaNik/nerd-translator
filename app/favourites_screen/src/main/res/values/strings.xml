@@ -3,4 +3,7 @@
     <string name="favourites_screen_image">Favourites Screen Image</string>
     <string name="under_image_hint">Here will be your added words \nas soon as you create tags and start \nadding to Favourites.</string>
     <string name="create_button_name">Create tag</string>
+    <string name="rename_tag_image">Rename Tag Sheet Image</string>
+    <string name="rename_tag_title">Rename tag</string>
+    <string name="done_button_name">Done</string>
 </resources>

@@ -8,6 +8,7 @@ class FavouritesScreenContract {
 
     sealed class Event : ViewEvent {
         data object CreateTagActionClick : Event()
+        data object DoneButtonActionClick : Event()
     }
 
     data class State(
